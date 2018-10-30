@@ -182,7 +182,7 @@ When referring to file types, like a PDF file, or a CSV file, refer to it as a C
 <a name="capitalization"></a>
 ## Capitalization
 
-* When in doubt...make it lowercase!
+* When in doubt...make it lowercase!.
 * Use sentence case for headings unless it contains a feature name or UI element. (For example, Getting started with the Design Editor.)
 * Only capitalize exclusive feature names like “Event Webhook” and “Marketing Campaigns” not, “drag & drop editor” or “transactional templates".
 
@@ -237,7 +237,7 @@ Please use PNG, GIF, or JPG files. Give the screenshots unique, meaningful names
 
 ### Location:
 
-Images should be located in the following directory: 
+Images should be located in the following directory:- 
 
 `docs/static/img/`
 
